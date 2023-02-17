@@ -86,7 +86,7 @@ export const heroData: Hero = {
   ),
   actions: [
     {
-      href: './assets/resume.pdf',
+      href: 'https://entreprise.pole-emploi.fr/docnums/portfolio-usager/wUYRt8FAAal7jbyJivZ8u9DnvWMNpHgk/CV-Dev.pdf?Expires=1676665764&Signature=LNcfop5IvYCuMV74OlPLoUAlMgU%3D',
       text: 'Resume',
       primary: true,
       Icon: DownloadIcon,
@@ -301,23 +301,23 @@ export const contact: ContactSection = {
   items: [
     {
       type: ContactType.Email,
-      text: 'reachout@timbaker.me',
-      href: 'mailto:reachout@timbaker.me',
+      text: 'gdepan.69@gmail.com',
+      href: 'mailto:gdepan.69@gmail.com',
     },
     {
       type: ContactType.Location,
-      text: 'Victoria BC, Canada',
-      href: 'https://www.google.ca/maps/place/Victoria,+BC/@48.4262362,-123.376775,14z',
+      text: 'Avignon, France',
+      href: 'https://goo.gl/maps/GyqkeTw7k8o4Kx4D6',
     },
     {
       type: ContactType.Instagram,
-      text: '@tbakerx',
-      href: 'https://www.instagram.com/tbakerx/',
+      text: '@faguoguigui',
+      href: 'https://www.instagram.com/faguoguigui/',
     },
     {
       type: ContactType.Github,
-      text: 'tbakerx',
-      href: 'https://github.com/tbakerx',
+      text: 'bulrack66',
+      href: 'https://github.com/Bulrack66',
     },
   ],
 };
@@ -326,9 +326,9 @@ export const contact: ContactSection = {
  * Social items
  */
 export const socialLinks: Social[] = [
-  {label: 'Github', Icon: GithubIcon, href: 'https://github.com/tbakerx'},
-  {label: 'Stack Overflow', Icon: StackOverflowIcon, href: 'https://stackoverflow.com/users/8553186/tim-baker'},
-  {label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/timbakerx/'},
-  {label: 'Instagram', Icon: InstagramIcon, href: 'https://www.instagram.com/tbakerx/'},
-  {label: 'Twitter', Icon: TwitterIcon, href: 'https://twitter.com/TimBakerx'},
+  {label: 'Github', Icon: GithubIcon, href: 'https://github.com/Bulrack66'},
+  {label: 'Stack Overflow', Icon: StackOverflowIcon, href: ''},
+  {label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/guillaume-d-b30929107/'},
+  {label: 'Instagram', Icon: InstagramIcon, href: 'https://www.instagram.com/faguoguigui/'},
+  {label: 'Twitter', Icon: TwitterIcon, href: 'https://twitter.com/Guillaumeluhang'},
 ];
