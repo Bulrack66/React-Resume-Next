@@ -120,7 +120,7 @@ export const aboutData: About = {
  */
 export const skills: SkillGroup[] = [
   {
-    name: 'Spoken languages',
+    name: 'Langues',
     skills: [
       {
         name: 'French',
@@ -137,7 +137,7 @@ export const skills: SkillGroup[] = [
     ],
   },
   {
-    name: 'Frontend development',
+    name: 'Développement Frontend',
     skills: [
       {
         name: 'React',
@@ -154,7 +154,7 @@ export const skills: SkillGroup[] = [
     ],
   },
   {
-    name: 'Backend development',
+    name: 'Développement Backend',
     skills: [
       {
         name: 'Node.js',
@@ -167,7 +167,7 @@ export const skills: SkillGroup[] = [
     ],
   },
   {
-    name: 'Mobile development',
+    name: 'Développement Mobile',
     skills: [
       {
         name: 'React Native',
@@ -213,7 +213,7 @@ export const education: TimelineItem[] = [
   },
   {
     location: "CFA-BTP Pyrénées-Orientales - BTP CFA OCCITANIE",
-    title: "Froid commercial et industriel",
+    title: "Monteur dépanneur en froid et climatisation",
     content: <p>Optention d'un Brevet Professionel</p>,
     date: "Decembre 2007",
   },
@@ -296,8 +296,8 @@ export const testimonial: TestimonialSection = {
  */
 
 export const contact: ContactSection = {
-  headerText: 'Get in touch.',
-  description: 'Here is a good spot for a message to your readers to let them know how best to reach out to you.',
+  headerText: 'Restons en contact!',
+  description: "C'est vrai que l'on pourrais s'écrire des lettres mais ça marche pas encore. Il va falloir attendre un peu...",
   items: [
     {
       type: ContactType.Email,
