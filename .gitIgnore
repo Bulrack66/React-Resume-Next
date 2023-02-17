@@ -1,0 +1,4 @@
+.yarn
+.next
+/src/data/resume.json
+/src/components/Sections/Testimonial.tsx
