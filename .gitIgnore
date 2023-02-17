@@ -1,4 +1,6 @@
 .yarn
 .next
+/src/data/data.tsx
 /src/data/resume.json
 /src/components/Sections/Testimonial.tsx
+node_modules

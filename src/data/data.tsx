@@ -45,8 +45,8 @@ import {
  * Page meta data
  */
 export const homePageMeta: HomepageMeta = {
-  title: 'React Resume Template',
-  description: "Example site built with Tim Baker's react resume template",
+  title: 'CV Guillaume Duplan',
+  description: "CV des competences et aquis durant toutes ces années",
 };
 
 /**
@@ -77,16 +77,16 @@ export const heroData: Hero = {
         Originaire de Perpignan, depuis peu je me suis reconvertis en <strong className="text-stone-100">Web développeur</strong>, actuellement
         en recherche d'emploi, j'aimerais trouver une place dans une entreprise qui me permettra d'apprendre different languages<strong className="text-stone-100"></strong>
       </p>
-      <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
+      {/* <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
         <strong className="text-stone-100"></strong>,
         <strong className="text-stone-100"></strong>{' '}
         <strong className="text-stone-100"></strong>.
-      </p>
+      </p> */}
     </>
   ),
   actions: [
     {
-      href: '/assets/resume.pdf',
+      href: './assets/resume.pdf',
       text: 'Resume',
       primary: true,
       Icon: DownloadIcon,
