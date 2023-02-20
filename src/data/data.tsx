@@ -70,7 +70,7 @@ export type SectionId = typeof SectionId[keyof typeof SectionId];
  */
 export const heroData: Hero = {
   imageSrc: heroImage,
-  name: `Je suis Guillaume Duplan`,
+  name: `Guillaume Duplan`,
   description: (
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
@@ -86,7 +86,7 @@ export const heroData: Hero = {
   ),
   actions: [
     {
-      href: 'https://entreprise.pole-emploi.fr/docnums/portfolio-usager/wUYRt8FAAal7jbyJivZ8u9DnvWMNpHgk/CV-Dev.pdf?Expires=1676665764&Signature=LNcfop5IvYCuMV74OlPLoUAlMgU%3D',
+      href: 'https://drive.google.com/file/d/10tZLdkXbA8d1VzIw7aOUWQyr_JXwPi0m/view?usp=share_link',
       text: 'Resume',
       primary: true,
       Icon: DownloadIcon,
