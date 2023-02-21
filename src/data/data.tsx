@@ -86,7 +86,7 @@ export const heroData: Hero = {
   ),
   actions: [
     {
-      href: 'https://drive.google.com/file/d/10tZLdkXbA8d1VzIw7aOUWQyr_JXwPi0m/view?usp=share_link',
+      href: 'https://drive.google.com/file/d/1nCKHiJhwwxuqwsENs_aUajrMjmmcvjl6/view?usp=share_link',
       text: 'Mon C.V',
       primary: true,
       Icon: DownloadIcon,
