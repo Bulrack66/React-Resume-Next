@@ -46,7 +46,7 @@ import {
  */
 export const homePageMeta: HomepageMeta = {
   title: 'CV Guillaume Duplan',
-  description: "CV des competences et aquis durant toutes ces années",
+  description: "Voici une courte présentation de mon savoir-faire et de mes compétences",
 };
 
 /**
@@ -74,14 +74,9 @@ export const heroData: Hero = {
   description: (
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        Originaire de Perpignan, depuis peu je me suis reconvertis en <strong className="text-stone-100">Web développeur</strong>, actuellement
-        en recherche d'emploi, j'aimerais trouver une place dans une entreprise qui me permettra d'apprendre different languages<strong className="text-stone-100"></strong>
+      Altruiste au coeur de feu, je me bats avec le sourire pour atteindre des résultats. 
+      Imaginant tout le scénario possible avec une volonté de vouloir expérimenter. Voilà pourquoi être <strong>Développeur web</strong> me passionne!
       </p>
-      {/* <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        <strong className="text-stone-100"></strong>,
-        <strong className="text-stone-100"></strong>{' '}
-        <strong className="text-stone-100"></strong>.
-      </p> */}
     </>
   ),
   actions: [
@@ -145,11 +140,11 @@ export const skills: SkillGroup[] = [
     skills: [
       {
         name: 'React',
-        level: 5,
+        level: 9,
       },
       {
         name: 'JavaScript',
-        level: 8,
+        level: 9,
       },
       {
         name: 'Sass',
