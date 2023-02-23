@@ -75,7 +75,7 @@ export const heroData: Hero = {
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
       Altruiste au coeur de feu, je me bats avec le sourire pour atteindre des résultats. 
-      Imaginant tout le scénario possible avec une volonté de vouloir expérimenter. Voilà pourquoi être <strong>Développeur web</strong> me passionne!
+      Imaginant tout les scénarios possibles avec une volonté de vouloir expérimenter. Voilà pourquoi être <strong>Développeur web</strong> me passionne!
       </p>
     </>
   ),
