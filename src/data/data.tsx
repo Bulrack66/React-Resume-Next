@@ -105,7 +105,7 @@ export const aboutData: About = {
     {label: 'Âge', text: '33', Icon: CalendarIcon},
     {label: 'Nationalité', text: 'Français', Icon: FlagIcon},
     {label: "Centre d'intérêt", text: 'Moto, MMA', Icon: SparklesIcon},
-    {label: 'Étude', text: 'OpenClassRoom', Icon: AcademicCapIcon},
+    {label: 'Étude', text: 'OpenClassRooms', Icon: AcademicCapIcon},
     {label: 'Travail', text: "En recherche d'emploi", Icon: OfficeBuildingIcon},
   ],
 };
@@ -216,7 +216,7 @@ export const education: TimelineItem[] = [
     location: "OpenClassrooms",
     title: "Développeur web RNCP 5",
     date: "Juillet 2022",
-    content:<p>Grace à OpenClassRoom j'ai appris à travailler de façon autonome sur des projets</p>
+    content:<p>Grace à OpenClassRooms j'ai appris à travailler de façon autonome sur des projets</p>
   },
   {
     location: "CFA-BTP Pyrénées-Orientales - BTP CFA OCCITANIE",
