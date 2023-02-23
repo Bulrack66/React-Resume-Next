@@ -258,7 +258,7 @@ export const experience: TimelineItem[] = [
     location: "Ineltec",
     title: "Technicien maintenance des équipements",
     date: "2018-01-31 / 2019-06-30",
-    content: (<p>"Région de Lyon, France"</p>) 
+    content: (<p>Région de Lyon, France</p>) 
   },
   {
     location: "广州鸿德国际酒店",
