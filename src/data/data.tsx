@@ -102,10 +102,10 @@ export const aboutData: About = {
   description: ``,
   aboutItems: [
     {label: 'Localisation', text: 'Avignon', Icon: MapIcon},
-    {label: 'Age', text: '33', Icon: CalendarIcon},
+    {label: 'Âge', text: '33', Icon: CalendarIcon},
     {label: 'Nationalité', text: 'Français', Icon: FlagIcon},
-    {label: "Centre d'interet", text: 'Moto, MMA', Icon: SparklesIcon},
-    {label: 'Etude', text: 'OpenClassRoom', Icon: AcademicCapIcon},
+    {label: "Centre d'intérêt", text: 'Moto, MMA', Icon: SparklesIcon},
+    {label: 'Étude', text: 'OpenClassRoom', Icon: AcademicCapIcon},
     {label: 'Travail', text: "En recherche d'emploi", Icon: OfficeBuildingIcon},
   ],
 };
@@ -214,13 +214,13 @@ export const portfolioItems: PortfolioItem[] = [
 export const education: TimelineItem[] = [
   {
     location: "OpenClassrooms",
-    title: "Développeur web",
+    title: "Développeur web RNCP 5",
     date: "Juillet 2022",
     content:<p>Grace à OpenClassRoom j'ai appris à travailler de façon autonome sur des projets</p>
   },
   {
     location: "CFA-BTP Pyrénées-Orientales - BTP CFA OCCITANIE",
-    title: "Monteur dépanneur en froid et climatisation",
+    title: "B.P Monteur dépanneur en froid et climatisation",
     content: <p>Optention d'un Brevet Professionel</p>,
     date: "Decembre 2007",
   },
@@ -231,26 +231,26 @@ export const experience: TimelineItem[] = [
     location: "MCI SAS",
     title: "Technicien frigoriste ",
     date: "2022-02-28 / 2022-05-31",
-    content: (<p>"Châtenoy-le-Royal, Bourgogne-Franche-Comté, France"</p>)
+    content: (<p>Châtenoy-le-Royal, Bourgogne-Franche-Comté, France</p>)
   },
   {
     location: "Axima Réfrigération France",
     title: "Technicien Frigoriste",
     date: "2021-04-30 / 2022-03-31",
-    content: (<p>"Région de Lyon, France""Montceau-les-Mines, Bourgogne-Franche-Comté, France"</p>)
+    content: (<p>Montceau-les-Mines, Bourgogne-Franche-Comté, France</p>)
   },
   {
     location: "Depan'69",
     title: "Gerant",
     date: "2017-02-28 / 2021-04-30",
-    content: (<p>"Région de Lyon"</p>)
+    content: (<p>Région de Lyon</p>)
   },
   {
     location: "ALTIVEC Business Solutions",
     title: "Responsable d'exploitation",
     date: "2019-06-30 / 2019-10-31",
     content: (
-    <p>"Région de Lyon, France" Gestion portefeuille client et management
+    <p>Région de Lyon, France Gestion portefeuille client et management
        des équipes techniques en binôme.</p>
     ) 
   },
@@ -264,13 +264,13 @@ export const experience: TimelineItem[] = [
     location: "广州鸿德国际酒店",
     title: "Responsable relations clientèle",
     date: "2014-05-31 / 2015-05-31",
-    content: (<p>Guangzhou City, China</p>)
+    content: (<p>Guangzhou, Chine</p>)
   },
   {
     location: "Baleo France",
     title: "Commercial",
     date: "2012-09-30 / 2014-05-31",
-    content: <p>(Guangzhou City, China)</p>
+    content: (<p>Guangzhou, Chine</p>)
   },
 ];
 
