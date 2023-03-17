@@ -81,7 +81,7 @@ export const heroData: Hero = {
   ),
   actions: [
     {
-      href: 'https://drive.google.com/file/d/180XEbf1ycT0Kvn2TkKygtAJPg9-1YLdu/view?usp=sharing',
+      href: 'https://drive.google.com/file/d/1OXKiGcukN_VW0GmaqkYRijQawXBAQLex/view?usp=share_link',
       text: 'Mon C.V',
       primary: true,
       Icon: DownloadIcon,
@@ -216,12 +216,12 @@ export const education: TimelineItem[] = [
     location: "OpenClassrooms",
     title: "Développeur web RNCP 5",
     date: "Juillet 2022",
-    content:<p>Grace à OpenClassRooms j'ai appris à travailler de façon autonome sur des projets</p>
+    content:<p>Grâce à OpenClassRooms j'ai appris à développer des éléments de l'interface d'un site web grâce à des composants React</p>
   },
   {
     location: "CFA-BTP Pyrénées-Orientales - BTP CFA OCCITANIE",
     title: "B.P Monteur dépanneur en froid et climatisation",
-    content: <p>Optention d'un Brevet Professionel</p>,
+    content: <p>Optention d'un Brevet Professionel en alternance dans l'entreprise Climat-Sol</p>,
     date: "Decembre 2007",
   },
 ];
@@ -231,19 +231,19 @@ export const experience: TimelineItem[] = [
     location: "MCI SAS",
     title: "Technicien frigoriste ",
     date: "2022-02-28 / 2022-05-31",
-    content: (<p>Châtenoy-le-Royal, Bourgogne-Franche-Comté, France</p>)
+    content: (<p>Châtenoy-le-Royal, France</p>)
   },
   {
     location: "Axima Réfrigération France",
     title: "Technicien Frigoriste",
     date: "2021-04-30 / 2022-03-31",
-    content: (<p>Montceau-les-Mines, Bourgogne-Franche-Comté, France</p>)
+    content: (<p>Montceau-les-Mines, France</p>)
   },
   {
     location: "Depan'69",
-    title: "Gerant",
+    title: "Gérant",
     date: "2017-02-28 / 2021-04-30",
-    content: (<p>Région de Lyon</p>)
+    content: (<p>Lyon, France</p>)
   },
   {
     location: "ALTIVEC Business Solutions",
@@ -271,6 +271,18 @@ export const experience: TimelineItem[] = [
     title: "Commercial",
     date: "2012-09-30 / 2014-05-31",
     content: (<p>Guangzhou, Chine</p>)
+  },
+  {
+    location: "Leroy Merlin",
+    title: "Employé Logistique",
+    date: "2010-08-05 / 2012-09-01",
+    content: (<p>Toulouse, France</p>)
+  },
+  {
+    location: "PlombyClim",
+    title: "Gérant",
+    date: "2009-02 / 2014-08",
+    content: (<p>Perpignan, France</p>)
   },
 ];
 
