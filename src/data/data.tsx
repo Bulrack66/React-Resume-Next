@@ -169,7 +169,7 @@ export const skills: SkillGroup[] = [
       },
       {
         name: 'Next.js',
-        level: 5,
+        level: 7,
       },
     ],
   },
@@ -227,6 +227,12 @@ export const education: TimelineItem[] = [
 ];
 
 export const experience: TimelineItem[] = [
+  {
+    location: "Froid Palombi",
+    title: "Dépanneur frigoriste ",
+    date: "2023-04-03 à Aujourd'hui",
+    content: (<p>Cavaillon, France</p>)
+  },
   {
     location: "MCI SAS",
     title: "Technicien frigoriste ",
