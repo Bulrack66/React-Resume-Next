@@ -260,7 +260,7 @@ export const experience: TimelineItem[] = [
   },
   {
     location: "MCI SAS",
-    title: "Technicien frigoriste ",
+    title: "Technicien Frigoriste ",
     date: "2022-02-28 / 2022-05-31",
     content: <p>Châtenoy-le-Royal, France</p>,
   },
@@ -282,7 +282,7 @@ export const experience: TimelineItem[] = [
     date: "2019-06-30 / 2019-10-31",
     content: (
       <p>
-        Région de Lyon, France Gestion portefeuille client et management des
+        Région Lyonnaise, France Gestion portefeuille client et management des
         équipes techniques en binôme.
       </p>
     ),
