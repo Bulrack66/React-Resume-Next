@@ -12,7 +12,6 @@ const Page: NextPage<HomepageMeta> = memo(
 
     return (
       <>
-        <SpeedInsights />
         <Head>
           <title>{title}</title>
           <meta content={description} name='description' />
@@ -41,6 +40,7 @@ const Page: NextPage<HomepageMeta> = memo(
           <meta content={title} name='twitter:title' />
           <meta content={description} name='twitter:description' />
         </Head>
+        <SpeedInsights />
         {children}
       </>
     );
