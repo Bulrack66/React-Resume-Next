@@ -104,13 +104,13 @@ export const aboutData: About = {
   description: ``,
   aboutItems: [
     { label: "Localisation", text: "Avignon", Icon: MapIcon },
-    { label: "Âge", text: "33", Icon: CalendarIcon },
+    { label: "Âge", text: "34", Icon: CalendarIcon },
     { label: "Nationalité", text: "Français", Icon: FlagIcon },
     { label: "Centre d'intérêt", text: "Moto, MMA", Icon: SparklesIcon },
     { label: "Étude", text: "OpenClassRooms", Icon: AcademicCapIcon },
     {
       label: "Travail",
-      text: "En recherche d'emploi",
+      text: "En poste chez Clauger",
       Icon: OfficeBuildingIcon,
     },
   ],
